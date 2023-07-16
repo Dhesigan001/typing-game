@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+#char-container{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
